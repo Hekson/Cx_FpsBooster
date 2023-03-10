@@ -3,7 +3,7 @@
       🤍 Cx_FPSBooster 🤍
   </h1>
   <h3 align="center">
-     Version 1.0.0
+     Version 2.1.0
   </h3>
   <h4 align="center">
       Develop By `Hekson- 
