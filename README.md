@@ -24,7 +24,7 @@
  ### Installation
 
  First :
- * 1 server Cfg = start Cx_FPSBooster
+ * 1 Server Cfg = ensure Cx_FPSBooster
  
 -----------------------------------------------------------  
 
